@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[13],{96:function(e,t,c){"use strict";c.r(t);var n=c(0),a=c(1);t.default=function(){const[e,t]=Object(n.useState)(new Date);return Object(n.useEffect)((()=>{const e=setInterval((()=>{t(new Date)}),1e3);return()=>clearInterval(e)}),[]),Object(a.jsx)("p",{className:"clock",children:e.toLocaleTimeString()})}}}]);
+//# sourceMappingURL=13.3fe8a3e0.chunk.js.map
